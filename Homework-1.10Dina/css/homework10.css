@@ -1,0 +1,53 @@
+.container-sm{
+    max-width: 75vw;
+    margin: auto;
+    border: grey 2px solid;
+    border-radius: 10px;
+    padding: 50px;
+    color: grey;
+}
+
+.tab{
+    max-width: 80%;
+}
+
+.row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+.heading, .number{
+    font-weight: 700;
+}
+
+.btn{
+    color: white;
+    padding: 10px 20px;
+    --bs-btn-padding-x: 0.85rem;
+    --bs-btn-padding-y: 0.385rem;
+}
+
+.btn-warning {
+    --bs-btn-color: white;
+    --bs-btn-hover-color: white;
+    --bs-btn-active-color: white;
+    --bs-btn-disabled-color: white;
+}
+
+.form-control-lg{
+    border: grey 1px solid;
+}
+
+.border-bottom {
+    border-bottom: grey 1px solid;
+}
+
+
